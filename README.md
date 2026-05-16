@@ -201,7 +201,9 @@ Result:
 This validated successful automated remediation of the vulnerability.
 
 ## Screenshot 8 – Final Passed Scan After PowerShell Remediation
-<img width="1017" height="76" alt="Passed_Scan" src="https://github.com/user-attachments/assets/d35e7b76-d6b3-4fe5-b5a8-52146340f8ea" />
+
+<img width="1017" height="76" alt="Passed_Scan" src="https://github.com/user-attachments/assets/15b89755-76ab-4d4c-90b8-2ba82519fdbc" />
+
 
 
 ```
