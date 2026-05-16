@@ -113,10 +113,8 @@ Negotiate signing
 After applying the configuration, the system policy was updated and rescanned.
 
 ## Screenshot 4 – LDAP Client Signing Set to "Negotiate signing"
-<img width="480" height="552" alt="Negotiate Signing " src="https://github.com/user-attachments/assets/b4e5cbcf-eb35-46b0-8cc6-d3c5e0e454b1" />
 
-
-```
+<img width="480" height="552" alt="Negotiate Signing" src="https://github.com/user-attachments/assets/b4e5cbcf-eb35-46b0-8cc6-d3c5e0e454b1" />
 
 ---
 
@@ -187,7 +185,7 @@ gpupdate /force
 <img width="1242" height="475" alt="PowerShell Remediation Execution" src="https://github.com/user-attachments/assets/9b9cd695-92d5-4ad5-b18d-96b79d7cb534" />
 
 
-```
+
 
 ---
 
@@ -202,11 +200,8 @@ This validated successful automated remediation of the vulnerability.
 
 ## Screenshot 8 – Final Passed Scan After PowerShell Remediation
 
-<img width="1017" height="76" alt="Passed_Scan" src="https://github.com/user-attachments/assets/15b89755-76ab-4d4c-90b8-2ba82519fdbc" />
+<img width="1017" height="45" alt="PassedScan" src="https://github.com/user-attachments/assets/b40a659d-5dff-48c9-9b5a-e0d2c0bcb723" />
 
-
-
-```
 
 ---
 
